@@ -1313,7 +1313,7 @@
   } ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
-    "@value" : "Diese Ontologie beschreibt Faserverbundwerkstoffe entsprechend den Anforderungen im Projekt SensoTwin, sie ist weiterhin in Entwicklung.\r\n\r\nSie kümmert sich um: \r\nverwendete Materialien\r\nProduktionsprozesse \r\nPrüfverfahren, Parameter und Ergebnisse\r\nSimulation\r\nund Bauteilgeometrie\r\n\r\nEnthaltene Instanzen dienen als Proof of Concept bzw. als beispielhafte Anwendungen."
+    "@value" : "Diese Ontologie beschreibt Faserverbundwerkstoffe entsprechend den Anforderungen im Projekt SensoTwin, sie ist weiterhin in Entwicklung.\r\n\r\nSie kümmert sich um: \r\nverwendete Materialien\r\nProduktionsprozesse \r\nPrüfverfahren, Parameter und Ergebnisse\r\nSimulation\r\nund Bauteilgeometrie\r\n\r\n\r\nEnthaltene Instanzen dienen als Proof of Concept bzw. als beispielhafte Anwendungen."
   }, {
     "@language" : "en",
     "@value" : "This ontology describes fibre composites according to the needs in the project SensoTwin, still under development.\r\n\r\nIt takes care of: \r\nused materials\r\nproduction processes \r\ntesting processes, parameters and results\r\nsimulation\r\nand componentgeometry\r\n\r\nIncluded instances serve as proof of concept or as exemplary applications."
