@@ -1325,7 +1325,7 @@
     "@id" : "https://w3id.org/pmd/co/2.0.7"
   } ],
   "http://www.w3.org/2002/07/owl#versionIRI" : [ {
-    "@id" : "http://w3id.org/sensotwin/applicationontology/1.1.0"
+    "@id" : "http://w3id.org/sensotwin/applicationontology/1.0.0"
   } ],
   "http://www.w3.org/2002/07/owl#versionInfo" : [ {
     "@language" : "de",
