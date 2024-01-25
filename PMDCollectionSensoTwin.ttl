@@ -10,7 +10,7 @@
 @base <http://w3id.org/sensotwin/applicationontology> .
 
 <http://w3id.org/sensotwin/applicationontology> rdf:type owl:Ontology ;
-                                                 owl:versionIRI <http://w3id.org/sensotwin/applicationontology/1.1.0> ;
+                                                 owl:versionIRI <http://w3id.org/sensotwin/applicationontology/1.0.0> ;
                                                  owl:imports <https://w3id.org/pmd/co/2.0.7> ;
                                                  <http://purl.org/dc/elements/1.1/creator> "<https://orcid.org/0009-0004-1208-3971>"@en ;
                                                  <http://purl.org/dc/terms/created> "19.01.2024"@en ;
