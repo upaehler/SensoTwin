@@ -43,7 +43,7 @@ PMDSI (old)
 qudt
 Prov
 IAO"""@en ;
-                                                 owl:versionInfo "1.0.0."@de .
+                                                 owl:versionInfo "1.0.0"@de .
 
 #################################################################
 #    Annotation properties
