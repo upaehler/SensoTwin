@@ -1,7 +1,7 @@
 name: Deploy
 
 env:
-  ONTOLOGY_FILE_NAME: PMDCollectionSensoTwin.ttl
+  ONTOLOGY_FILE_NAME: SensoTwin Application Ontology.ttl
 on:
   push:
     branches:
