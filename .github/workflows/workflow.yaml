@@ -1,7 +1,7 @@
 name: Deploy
 
 env:
-  ONTOLOGY_FILE_NAME: SensoTwin Application Ontology.ttl
+  ONTOLOGY_FILE_NAME: SensoTwinApplicationOntology.ttl
 on:
   push:
     branches:
